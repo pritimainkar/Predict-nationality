@@ -1,0 +1,46 @@
+
+table, td {
+    border: 1px solid black;
+    padding: 2%;
+
+  }
+
+
+
+#n{margin-right: 5px;}
+
+.ibox{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    padding: 1%;
+}
+
+.output_div{
+    display: flex;
+    justify-content: center;
+    
+}
+
+p{
+    margin: 0px;
+}
+
+.filter_label{
+    align-self: center;
+}
+
+.btn{
+    background-color: green;
+    color: ivory;
+}
+
+h1{
+    text-align: center;
+}
+
+.upper_text{
+    text-align: center;
+    padding: 2%;
+}
+
